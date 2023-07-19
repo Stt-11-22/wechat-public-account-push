@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2023-05-31' },
         // 距离下一次见面还有
-        { keyword: 'marry_day', date: '2023-07-07' },
+        { keyword: 'marry_day', date: '2023-08-26' },
         // 距离老婆6月的大姨妈还有
         { keyword: 'birth_day', date: '2023-07-29' }
       ],
